@@ -14,8 +14,8 @@ Things to install before running
 
 
 Steps:
-1. unzip the file. 
+1. *** git clone https://github.com/PacificG/Data-Explorer-Pro-Max***
 2. Make sure above packages are installed in your pyhton environment.
-3. Run the command in the terminal
+3. Run the command in the terminal.
 
 		***streamlit run explore.py***
