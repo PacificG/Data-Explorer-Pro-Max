@@ -5,11 +5,11 @@ Data Explorer Pro Max
 
 Things to install before running
 
-pip install streamlit
-pip install numpy
-pip install scipy
-pip install pandas
-pip install plotly
+pip install streamlit \n
+pip install numpy \n
+pip install scipy  \n
+pip install pandas \n  
+pip install plotly  \n
 
 
 
